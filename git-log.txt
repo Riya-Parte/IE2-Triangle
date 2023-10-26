@@ -1,3 +1,15 @@
+commit ef37e3f6905f636354473e7b786a6b98c3223f67
+Author: mitalee18 <mitaleeminde@gmail.com>
+Date:   Thu Oct 26 09:07:01 2023 -0400
+
+    re-ran initial mutation and removed extra files from statement
+
+commit 3f6538795937b663e34741b0ee1f198667868344
+Author: mitalee18 <mitaleeminde@gmail.com>
+Date:   Wed Oct 25 11:51:07 2023 -0400
+
+    Added gitlog
+
 commit 27411d750063fcf734cd041806ebe763f96af918
 Merge: e8ede85 db5aabf
 Author: Mitalee Minde <32922301+mitalee18@users.noreply.github.com>
